@@ -2,7 +2,7 @@
     "name": "todolistbackend",
     "version": "1.0.0",
     "description": "This is the project for todoList Backend",
-    "main": "index.js",
+    "main": "app.js",
     "engines": {
         "node": "12.11.1"
     },
